@@ -1,0 +1,25 @@
+{
+    "peeps": [
+        {
+            "_id": "6390773a9c3e7d454a5dfcad",
+            "userName": "Test name 1",
+            "datePosted": "2016-05-18T16:00:00Z",
+            "peepBody": "Test peep body 1",
+            "__v": 0
+        },
+        {
+            "_id": "6490773a9c3e7d454a5dfcad",
+            "userName": "Test name 2",
+            "datePosted": "2016-05-18T16:00:00Z",
+            "peepBody": "Test peep body 2",
+            "__v": 0
+        },
+        {
+            "_id": "6590773a9c3e7d454a5dfcad",
+            "userName": "Test name 3",
+            "datePosted": "2016-05-18T16:00:00Z",
+            "peepBody": "Test peep body 3",
+            "__v": 0
+        }
+    ]
+}
