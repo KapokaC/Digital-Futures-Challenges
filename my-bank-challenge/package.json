@@ -1,0 +1,27 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "This challenge helps you practice your OO design skills.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "jasmine "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KapokaC/bank-challenge.git"
+  },
+  "author": "Charity Kapoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KapokaC/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/KapokaC/bank-challenge#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "jasmine": "^4.4.0"
+  }
+}
